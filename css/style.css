@@ -1,0 +1,38 @@
+.bg-info {
+    background-color: #5da1b2 !important;
+}
+
+.btn-dark {
+    border-radius: 24px;
+    border: 1px solid white;
+}
+
+.nav-link img {
+    max-width: 40px;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+.home-images {
+    display: flex;
+}
+
+.home-images img {
+    max-height: 300px;
+    margin: 2rem 0;
+}
+
+.nav-logo {
+    max-width: 100px;
+    margin-right: 2rem;
+}
+
+.sec-nav {
+    display: flex;
+}
+
+.container {
+    margin-top: 1rem;
+}
